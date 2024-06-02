@@ -9,7 +9,7 @@ namespace FinalExamGroup8
 {
     public partial class LoginPage : System.Web.UI.Page
     {
-        DataUtils data = new DataUtils();
+        CategoryDataUtils data = new CategoryDataUtils();
 
         protected void Page_Load(object sender, EventArgs e)
         {

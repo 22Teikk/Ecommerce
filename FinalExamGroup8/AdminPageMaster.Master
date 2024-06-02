@@ -197,7 +197,7 @@
         <ul class="sidebar-nav" id="sidebar-nav">
 
             <li class="nav-item">
-                <a class="nav-link " href="index.html">
+                <a class="nav-link " href="DashboardPage.aspx">
                     <i class="bi bi-grid"></i>
                     <span>Dashboard</span>
                 </a>
@@ -211,12 +211,12 @@
                 </a>
                 <ul id="components-nav" class="nav-content collapse " data-bs-parent="#sidebar-nav">
                     <li>
-                        <a href="components-tooltips.html">
+                        <a href="DetailCategoryPage.aspx">
                             <i class="bi bi-circle"></i><span>Thêm danh mục</span>
                         </a>
                     </li>
                     <li>
-                        <a href="components-tooltips.html">
+                        <a href="CategoryPage.aspx">
                             <i class="bi bi-circle"></i><span>Danh sách danh mục</span>
                         </a>
                     </li>

@@ -368,6 +368,8 @@
     <Content Include="assets\vendor\tinymce\themes\silver\theme.min.js" />
     <Content Include="assets\vendor\tinymce\tinymce.js" />
     <Content Include="assets\vendor\tinymce\tinymce.min.js" />
+    <Content Include="CategoryPage.aspx" />
+    <Content Include="DetailCategoryPage.aspx" />
     <Content Include="LoginPage.aspx" />
     <Content Include="DashboardPage.aspx" />
     <Content Include="Web.config" />
@@ -375,11 +377,26 @@
   <ItemGroup>
     <Compile Include="AdminPageMaster.Master.cs">
       <DependentUpon>AdminPageMaster.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="AdminPageMaster.Master.designer.cs">
       <DependentUpon>AdminPageMaster.Master</DependentUpon>
     </Compile>
-    <Compile Include="DataUtils.cs" />
+    <Compile Include="CategoryPage.aspx.cs">
+      <DependentUpon>CategoryPage.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CategoryPage.aspx.designer.cs">
+      <DependentUpon>CategoryPage.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CategoryDataUtils.cs" />
+    <Compile Include="DetailCategoryPage.aspx.cs">
+      <DependentUpon>DetailCategoryPage.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="DetailCategoryPage.aspx.designer.cs">
+      <DependentUpon>DetailCategoryPage.aspx</DependentUpon>
+    </Compile>
     <Compile Include="LoginPage.aspx.cs">
       <DependentUpon>LoginPage.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -394,6 +411,7 @@
     <Compile Include="DashboardPage.aspx.designer.cs">
       <DependentUpon>DashboardPage.aspx</DependentUpon>
     </Compile>
+    <Compile Include="model\Category.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -606,6 +624,7 @@
   <ItemGroup>
     <Service Include="{4A0DDDB5-7A95-4FBF-97CC-616D07737A77}" />
   </ItemGroup>
+  <ItemGroup />
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
