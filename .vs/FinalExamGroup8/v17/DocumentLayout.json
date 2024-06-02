@@ -3,20 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Teikk\\OneDrive\\Desktop\\Ecomerce\\FinalExamGroup8\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9166A118-F124-4856-8A3D-09895FF4EACA}|FinalExamGroup8\\FinalExamGroup8.csproj|c:\\users\\teikk\\onedrive\\desktop\\ecomerce\\finalexamgroup8\\finalexamgroup8\\loginpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9166A118-F124-4856-8A3D-09895FF4EACA}|FinalExamGroup8\\FinalExamGroup8.csproj|solutionrelative:finalexamgroup8\\loginpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9166A118-F124-4856-8A3D-09895FF4EACA}|FinalExamGroup8\\FinalExamGroup8.csproj|c:\\users\\teikk\\onedrive\\desktop\\ecomerce\\finalexamgroup8\\finalexamgroup8\\loginpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{9166A118-F124-4856-8A3D-09895FF4EACA}|FinalExamGroup8\\FinalExamGroup8.csproj|solutionrelative:finalexamgroup8\\loginpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9166A118-F124-4856-8A3D-09895FF4EACA}|FinalExamGroup8\\FinalExamGroup8.csproj|c:\\users\\teikk\\onedrive\\desktop\\ecomerce\\finalexamgroup8\\finalexamgroup8\\productpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{9166A118-F124-4856-8A3D-09895FF4EACA}|FinalExamGroup8\\FinalExamGroup8.csproj|solutionrelative:finalexamgroup8\\productpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9166A118-F124-4856-8A3D-09895FF4EACA}|FinalExamGroup8\\FinalExamGroup8.csproj|c:\\users\\teikk\\onedrive\\desktop\\ecomerce\\finalexamgroup8\\finalexamgroup8\\datautils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9166A118-F124-4856-8A3D-09895FF4EACA}|FinalExamGroup8\\FinalExamGroup8.csproj|solutionrelative:finalexamgroup8\\datautils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9166A118-F124-4856-8A3D-09895FF4EACA}|FinalExamGroup8\\FinalExamGroup8.csproj|c:\\users\\teikk\\onedrive\\desktop\\ecomerce\\finalexamgroup8\\finalexamgroup8\\dashboardpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{9166A118-F124-4856-8A3D-09895FF4EACA}|FinalExamGroup8\\FinalExamGroup8.csproj|solutionrelative:finalexamgroup8\\dashboardpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,53 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "LoginPage.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\Teikk\\OneDrive\\Desktop\\Ecomerce\\FinalExamGroup8\\FinalExamGroup8\\LoginPage.aspx.cs",
-              "RelativeDocumentMoniker": "FinalExamGroup8\\LoginPage.aspx.cs",
-              "ToolTip": "C:\\Users\\Teikk\\OneDrive\\Desktop\\Ecomerce\\FinalExamGroup8\\FinalExamGroup8\\LoginPage.aspx.cs",
-              "RelativeToolTip": "FinalExamGroup8\\LoginPage.aspx.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-02T03:49:55.203Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ProductPage.aspx",
-              "DocumentMoniker": "C:\\Users\\Teikk\\OneDrive\\Desktop\\Ecomerce\\FinalExamGroup8\\FinalExamGroup8\\ProductPage.aspx",
-              "RelativeDocumentMoniker": "FinalExamGroup8\\ProductPage.aspx",
-              "ToolTip": "C:\\Users\\Teikk\\OneDrive\\Desktop\\Ecomerce\\FinalExamGroup8\\FinalExamGroup8\\ProductPage.aspx",
-              "RelativeToolTip": "FinalExamGroup8\\ProductPage.aspx",
+              "Title": "DashboardPage.aspx",
+              "DocumentMoniker": "C:\\Users\\Teikk\\OneDrive\\Desktop\\Ecomerce\\FinalExamGroup8\\FinalExamGroup8\\DashboardPage.aspx",
+              "RelativeDocumentMoniker": "FinalExamGroup8\\DashboardPage.aspx",
+              "ToolTip": "C:\\Users\\Teikk\\OneDrive\\Desktop\\Ecomerce\\FinalExamGroup8\\FinalExamGroup8\\DashboardPage.aspx",
+              "RelativeToolTip": "FinalExamGroup8\\DashboardPage.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-06-02T03:49:29.393Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "LoginPage.aspx",
-              "DocumentMoniker": "C:\\Users\\Teikk\\OneDrive\\Desktop\\Ecomerce\\FinalExamGroup8\\FinalExamGroup8\\LoginPage.aspx",
-              "RelativeDocumentMoniker": "FinalExamGroup8\\LoginPage.aspx",
-              "ToolTip": "C:\\Users\\Teikk\\OneDrive\\Desktop\\Ecomerce\\FinalExamGroup8\\FinalExamGroup8\\LoginPage.aspx",
-              "RelativeToolTip": "FinalExamGroup8\\LoginPage.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-06-02T03:49:07.838Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "DataUtils.cs",
-              "DocumentMoniker": "C:\\Users\\Teikk\\OneDrive\\Desktop\\Ecomerce\\FinalExamGroup8\\FinalExamGroup8\\DataUtils.cs",
-              "RelativeDocumentMoniker": "FinalExamGroup8\\DataUtils.cs",
-              "ToolTip": "C:\\Users\\Teikk\\OneDrive\\Desktop\\Ecomerce\\FinalExamGroup8\\FinalExamGroup8\\DataUtils.cs",
-              "RelativeToolTip": "FinalExamGroup8\\DataUtils.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-02T03:48:34.722Z",
+              "WhenOpened": "2024-06-02T04:00:32.703Z",
               "EditorCaption": ""
             }
           ]
