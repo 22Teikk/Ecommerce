@@ -376,6 +376,8 @@
     <Content Include="LoginPage.aspx" />
     <Content Include="DashboardPage.aspx" />
     <Content Include="OtherProductPage.aspx" />
+    <Content Include="ProductComponentPage.aspx" />
+    <Content Include="ProductLaptopPage.aspx" />
     <Content Include="ProductMobilePage.aspx" />
     <Content Include="Web.config" />
   </ItemGroup>
@@ -446,7 +448,21 @@
     <Compile Include="OtherProductPage.aspx.designer.cs">
       <DependentUpon>OtherProductPage.aspx</DependentUpon>
     </Compile>
+    <Compile Include="ProductComponentPage.aspx.cs">
+      <DependentUpon>ProductComponentPage.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ProductComponentPage.aspx.designer.cs">
+      <DependentUpon>ProductComponentPage.aspx</DependentUpon>
+    </Compile>
     <Compile Include="ProductDataUtils.cs" />
+    <Compile Include="ProductLaptopPage.aspx.cs">
+      <DependentUpon>ProductLaptopPage.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ProductLaptopPage.aspx.designer.cs">
+      <DependentUpon>ProductLaptopPage.aspx</DependentUpon>
+    </Compile>
     <Compile Include="ProductMobilePage.aspx.cs">
       <DependentUpon>ProductMobilePage.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>

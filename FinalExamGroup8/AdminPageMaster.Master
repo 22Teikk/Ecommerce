@@ -235,12 +235,12 @@
                         </a>
                     </li>
                     <li>
-                        <a href="forms-layouts.html">
+                        <a href="ProductLaptopPage.aspx">
                             <i class="bi bi-circle"></i><span>Máy tính</span>
                         </a>
                     </li>
                     <li>
-                        <a href="forms-editors.html">
+                        <a href="ProductComponentPage.aspx">
                             <i class="bi bi-circle"></i><span>Phụ kiện</span>
                         </a>
                     </li>

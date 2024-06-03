@@ -18,23 +18,6 @@ namespace FinalExamGroup8
             if (!IsPostBack)
             {
                 LoadDataDDL();
-                LoadEditData();
-            }
-        }
-
-        private void LoadEditData()
-        {
-            Product product = Session["product"] as Product;
-            if (product != null)
-            {
-                tbSku.Value = product.sku;
-                tbName.Value = product.name;
-                tbPrice.Value = product.price.ToString();
-                tbStock.Value = product.stock.ToString();
-                ddlCategory.SelectedValue = product.product_id.ToString();
-                imagePreview.Src = product.image;
-                imagePreview.Style.Remove("display");
-                btnAdd.Text = "Cập nhật";
             }
         }
 
@@ -44,6 +27,18 @@ namespace FinalExamGroup8
             ddlCategory.DataValueField = "category_id";
             ddlCategory.DataTextField = "category_name";
             DataBind();
+            Product product = Session["product"] as Product;
+            if (product != null)
+            {
+                tbSku.Value = product.sku;
+                tbName.Value = product.name;
+                tbPrice.Value = product.price.ToString();
+                tbStock.Value = product.stock.ToString();
+                ddlCategory.SelectedValue = product.category_id.ToString();
+                imagePreview.Src = product.image;
+                imagePreview.Style.Remove("display");
+                btnAdd.Text = "Cập nhật";
+            }
         }
 
         protected void btnAdd_Click(object sender, EventArgs e)
