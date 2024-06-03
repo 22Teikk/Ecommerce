@@ -24,7 +24,7 @@
 
         <div class="card-body" style="padding: 10px;">
             <h5 class="card-title">Danh mục hiện có</h5>
-            <asp:GridView GridLines="None" CssClass="table table-borderless" ID="dtgCategory" runat="server" AutoGenerateColumns="false" OnRowEditing="dtgCategory_RowEditing" OnRowDeleting="dtgCategory_RowDeleting">
+            <asp:GridView OnRowDataBound="dtgCategory_RowDataBound" GridLines="None" CssClass="table table-borderless" ID="dtgCategory" runat="server" AutoGenerateColumns="false" OnRowEditing="dtgCategory_RowEditing" OnRowDeleting="dtgCategory_RowDeleting">
                 <Columns>
                     <asp:BoundField DataField="category_id" HeaderText="Mã danh mục" />
                     <asp:BoundField DataField="category_name" HeaderText="Tên danh mục" />

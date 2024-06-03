@@ -63,5 +63,28 @@ namespace FinalExamGroup8
                 Response.Redirect("DetailCategoryPage.aspx");
             }
         }
+
+        protected void dtgCategory_RowDataBound(object sender, GridViewRowEventArgs e)
+        {
+            if (e.Row.RowType == DataControlRowType.DataRow)
+            {
+                if (e.Row.RowIndex < 3)
+                {
+                    // Disable Edit and Delete buttons for the first 3 rows
+                    Button btnEdit = (Button)e.Row.FindControl("btnEdit");
+                    Button btnDelete = (Button)e.Row.FindControl("btnDelete");
+
+                    if (btnEdit != null)
+                    {
+                        btnEdit.Enabled = false;
+                    }
+
+                    if (btnDelete != null)
+                    {
+                        btnDelete.Enabled = false;
+                    }
+                }
+            }
+        }
     }
 }

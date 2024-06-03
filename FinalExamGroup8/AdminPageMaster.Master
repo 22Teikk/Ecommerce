@@ -211,7 +211,7 @@
                 </a>
                 <ul id="components-nav" class="nav-content collapse " data-bs-parent="#sidebar-nav">
                     <li>
-                        <a href="DetailCategoryPage.aspx">
+                        <a href="AddCategoryPage.aspx">
                             <i class="bi bi-circle"></i><span>Thêm danh mục</span>
                         </a>
                     </li>
@@ -230,7 +230,7 @@
                 </a>
                 <ul id="forms-nav" class="nav-content collapse " data-bs-parent="#sidebar-nav">
                     <li>
-                        <a href="forms-elements.html">
+                        <a href="ProductMobilePage.aspx">
                             <i class="bi bi-circle"></i><span>Điện thoại</span>
                         </a>
                     </li>
@@ -244,6 +244,16 @@
                             <i class="bi bi-circle"></i><span>Phụ kiện</span>
                         </a>
                     </li>
+                     <li>
+     <a href="OtherProductPage.aspx">
+         <i class="bi bi-circle"></i><span>Sản phẩm khác</span>
+     </a>
+ </li>
+                    <li>
+    <a href="AddProductPage.aspx">
+        <i class="bi bi-circle"></i><span>Thêm sản phẩm</span>
+    </a>
+</li>
                 </ul>
             </li>
             <!-- End Forms Nav -->
