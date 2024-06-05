@@ -1,6 +1,7 @@
 ﻿using FinalExamGroup8.model;
 using System;
 using System.Collections.Generic;
+using System.Data;
 using System.Data.SqlClient;
 using System.Linq;
 using System.Web;
@@ -151,5 +152,33 @@ namespace FinalExamGroup8
             sqlCommand.ExecuteNonQuery();
             con.Close();
         }
+
+        public List<Product> GetProductsByCategory(int cateid)
+        {
+            List<Product> list = new List<Product>();
+            string sql = @"
+                SELECT *
+                FROM product 
+                WHERE category_id = @id";
+            con.Open();
+            SqlCommand cmd = new SqlCommand(sql, con);
+            cmd.Parameters.AddWithValue("id", cateid);
+            SqlDataReader rd = cmd.ExecuteReader();
+            while (rd.Read())
+            {
+                Product product = new Product();
+                product.product_id = int.Parse(rd["product_id"].ToString());
+                product.sku = rd["sku"].ToString();
+                product.name = rd["name"].ToString();
+                product.image = rd["image"].ToString();
+                product.price = decimal.Parse(rd["price"].ToString());
+                product.stock = int.Parse(rd["stock"].ToString());
+                product.category_id = int.Parse(rd["category_id"].ToString());
+                list.Add(product);
+            }
+            con.Close();
+            return list;
+        }
+
     }
 }

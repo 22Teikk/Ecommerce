@@ -52,6 +52,24 @@ namespace FinalExamGroup8
             return list;
         }
 
+        public List<Category> listOtherCategory()
+        {
+            List<Category> list = new List<Category>();
+            con.Open();
+            string sql = "select * from category ORDER BY category_id OFFSET 3 ROWS";
+            SqlCommand cmd = new SqlCommand(sql, con);
+            SqlDataReader rd = cmd.ExecuteReader();
+            while (rd.Read())
+            {
+                Category category = new Category();
+                category.category_id = int.Parse(rd["category_id"].ToString());
+                category.category_name = rd["category_name"].ToString();
+                list.Add(category);
+            }
+            con.Close();
+            return list;
+        }
+
         public Category GetCategory(int id)
         {
             Category category = new Category();
