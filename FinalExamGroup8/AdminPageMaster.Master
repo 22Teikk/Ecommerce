@@ -258,6 +258,25 @@
             </li>
             <!-- End Forms Nav -->
 
+<li class="nav-item">
+    <a class="nav-link collapsed" data-bs-target="#customer-nav" data-bs-toggle="collapse" href="#">
+        <i class="bi bi-people-fill
+"></i><span>Khách hàng</span><i class="bi bi-chevron-down ms-auto"></i>
+    </a>
+    <ul id="customer-nav" class="nav-content collapse " data-bs-parent="#sidebar-nav">
+        <li>
+            <a href="CustomerPage.aspx">
+                <i class="bi bi-circle"></i><span>Thông tin khách hàng</span>
+            </a>
+        </li>
+        <li>
+            <a href="AddCustomerPage.aspx">
+                <i class="bi bi-circle"></i><span>Thêm khách hàng mới</span>
+            </a>
+        </li>
+    </ul>
+</li>
+
             <li class="nav-item">
                 <a class="nav-link collapsed" data-bs-target="#tables-nav" data-bs-toggle="collapse" href="#">
                     <i class="bi bi-inboxes-fill"></i><span>Đơn hàng</span><i class="bi bi-chevron-down ms-auto"></i>

@@ -68,6 +68,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="AddCategoryPage.aspx" />
+    <Content Include="AddCustomerPage.aspx" />
     <Content Include="AddProductPage.aspx" />
     <Content Include="assets\css\style.css" />
     <Content Include="assets\img\apple-touch-icon.png" />
@@ -371,7 +372,9 @@
     <Content Include="assets\vendor\tinymce\tinymce.js" />
     <Content Include="assets\vendor\tinymce\tinymce.min.js" />
     <Content Include="CategoryPage.aspx" />
+    <Content Include="CustomerPage.aspx" />
     <Content Include="DetailCategoryPage.aspx" />
+    <Content Include="DetailCustomerPage.aspx" />
     <Content Include="DetailProductPage.aspx" />
     <Content Include="LoginPage.aspx" />
     <Content Include="DashboardPage.aspx" />
@@ -388,6 +391,13 @@
     </Compile>
     <Compile Include="AddCategoryPage.aspx.designer.cs">
       <DependentUpon>AddCategoryPage.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="AddCustomerPage.aspx.cs">
+      <DependentUpon>AddCustomerPage.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AddCustomerPage.aspx.designer.cs">
+      <DependentUpon>AddCustomerPage.aspx</DependentUpon>
     </Compile>
     <Compile Include="AddProductPage.aspx.cs">
       <DependentUpon>AddProductPage.aspx</DependentUpon>
@@ -411,12 +421,27 @@
       <DependentUpon>CategoryPage.aspx</DependentUpon>
     </Compile>
     <Compile Include="CategoryDataUtils.cs" />
+    <Compile Include="CustomerDataUtil.cs" />
+    <Compile Include="CustomerPage.aspx.cs">
+      <DependentUpon>CustomerPage.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CustomerPage.aspx.designer.cs">
+      <DependentUpon>CustomerPage.aspx</DependentUpon>
+    </Compile>
     <Compile Include="DetailCategoryPage.aspx.cs">
       <DependentUpon>DetailCategoryPage.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="DetailCategoryPage.aspx.designer.cs">
       <DependentUpon>DetailCategoryPage.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="DetailCustomerPage.aspx.cs">
+      <DependentUpon>DetailCustomerPage.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="DetailCustomerPage.aspx.designer.cs">
+      <DependentUpon>DetailCustomerPage.aspx</DependentUpon>
     </Compile>
     <Compile Include="DetailProductPage.aspx.cs">
       <DependentUpon>DetailProductPage.aspx</DependentUpon>
@@ -440,6 +465,7 @@
       <DependentUpon>DashboardPage.aspx</DependentUpon>
     </Compile>
     <Compile Include="model\Category.cs" />
+    <Compile Include="model\Customer.cs" />
     <Compile Include="model\Product.cs" />
     <Compile Include="OtherProductPage.aspx.cs">
       <DependentUpon>OtherProductPage.aspx</DependentUpon>
