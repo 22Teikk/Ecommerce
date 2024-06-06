@@ -390,6 +390,7 @@
     <Content Include="ProductMobilePage.aspx" />
     <Content Include="ProductStatistic.aspx" />
     <Content Include="ProductStatusPage.aspx" />
+    <Content Include="StateManagementPage.aspx" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
@@ -477,6 +478,7 @@
     <Compile Include="model\Customer.cs" />
     <Compile Include="model\OrderDate.cs" />
     <Compile Include="model\Product.cs" />
+    <Compile Include="model\ShipmentOrder.cs" />
     <Compile Include="model\TotalSold.cs" />
     <Compile Include="OtherProductPage.aspx.cs">
       <DependentUpon>OtherProductPage.aspx</DependentUpon>
@@ -522,6 +524,13 @@
       <DependentUpon>ProductStatusPage.aspx</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="StateManagementPage.aspx.cs">
+      <DependentUpon>StateManagementPage.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="StateManagementPage.aspx.designer.cs">
+      <DependentUpon>StateManagementPage.aspx</DependentUpon>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <Content Include="assets\vendor\apexcharts\locales\ar.json" />
