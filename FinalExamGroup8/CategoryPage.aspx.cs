@@ -12,6 +12,11 @@ namespace FinalExamGroup8
         CategoryDataUtils data = new CategoryDataUtils();
         protected void Page_Load(object sender, EventArgs e)
         {
+            if (Session["user"] == null)
+            {
+                // Nếu không tồn tại, chuyển hướng đến trang đăng nhập
+                Response.Redirect("LoginPage.aspx");
+            }
             if (!IsPostBack)
             {
                 BindGridView();

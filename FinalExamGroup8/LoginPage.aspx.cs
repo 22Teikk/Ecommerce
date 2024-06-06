@@ -20,7 +20,10 @@ namespace FinalExamGroup8
             string userName = yourUsername.Value;
             string password = yourPassword.Value;
             if (data.checkAdmin(userName, password))
-                Response.Redirect("/ProductPage.aspx");
+            {
+                Session["user"] = userName;
+                Response.Redirect("/DashboardPage.aspx");
+            }
             else
             {
                 Response.Redirect("/LoginPage.aspx");

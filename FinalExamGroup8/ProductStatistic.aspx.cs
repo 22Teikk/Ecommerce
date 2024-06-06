@@ -18,6 +18,11 @@ namespace FinalExamGroup8
         AnalysticDataUtil data = new AnalysticDataUtil();
         protected void Page_Load(object sender, EventArgs e)
         {
+            if (Session["user"] == null)
+            {
+                // Nếu không tồn tại, chuyển hướng đến trang đăng nhập
+                Response.Redirect("LoginPage.aspx");
+            }
             if (!IsPostBack)
             {
                 BindDailyStatistics();

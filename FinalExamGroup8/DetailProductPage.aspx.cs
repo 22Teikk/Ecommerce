@@ -15,6 +15,11 @@ namespace FinalExamGroup8
         CategoryDataUtils cateData = new CategoryDataUtils();
         protected void Page_Load(object sender, EventArgs e)
         {
+            if (Session["user"] == null)
+            {
+                // Nếu không tồn tại, chuyển hướng đến trang đăng nhập
+                Response.Redirect("LoginPage.aspx");
+            }
             if (!IsPostBack)
             {
                 LoadDataDDL();
