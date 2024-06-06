@@ -116,3 +116,6 @@ C:\Users\Teikk\OneDrive\Desktop\Ecomerce\KTHP\Ecommerce\FinalExamGroup8\obj\Debu
 C:\Users\Teikk\OneDrive\Desktop\Ecomerce\KTHP\Ecommerce\FinalExamGroup8\obj\Debug\FinalExa.5E8D4B2D.Up2Date
 C:\Users\Teikk\OneDrive\Desktop\Ecomerce\KTHP\Ecommerce\FinalExamGroup8\obj\Debug\FinalExamGroup8.dll
 C:\Users\Teikk\OneDrive\Desktop\Ecomerce\KTHP\Ecommerce\FinalExamGroup8\obj\Debug\FinalExamGroup8.pdb
+C:\Users\Teikk\OneDrive\Desktop\Ecomerce\KTHP\Ecommerce\FinalExamGroup8\bin\BouncyCastle.Crypto.dll
+C:\Users\Teikk\OneDrive\Desktop\Ecomerce\KTHP\Ecommerce\FinalExamGroup8\bin\itextsharp.dll
+C:\Users\Teikk\OneDrive\Desktop\Ecomerce\KTHP\Ecommerce\FinalExamGroup8\bin\itextsharp.xml

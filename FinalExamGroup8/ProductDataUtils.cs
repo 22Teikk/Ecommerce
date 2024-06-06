@@ -4,6 +4,7 @@ using System.Collections.Generic;
 using System.Data;
 using System.Data.SqlClient;
 using System.Linq;
+using System.Security.Cryptography.X509Certificates;
 using System.Web;
 
 namespace FinalExamGroup8
@@ -143,7 +144,7 @@ namespace FinalExamGroup8
             con.Close();
         }
 
-        public void DeleteProduct(int id) 
+        public void DeleteProduct(int id)
         {
             string sql = "delete product where product_id = @id";
             con.Open();

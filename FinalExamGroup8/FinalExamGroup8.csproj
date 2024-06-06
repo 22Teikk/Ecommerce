@@ -43,6 +43,12 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="BouncyCastle.Crypto, Version=1.8.9.0, Culture=neutral, PublicKeyToken=0e99375e54769942">
+      <HintPath>..\packages\BouncyCastle.1.8.9\lib\BouncyCastle.Crypto.dll</HintPath>
+    </Reference>
+    <Reference Include="itextsharp, Version=5.5.13.3, Culture=neutral, PublicKeyToken=8354ae6d2174ddca, processorArchitecture=MSIL">
+      <HintPath>..\packages\iTextSharp.5.5.13.3\lib\itextsharp.dll</HintPath>
+    </Reference>
     <Reference Include="Microsoft.CSharp" />
     <Reference Include="System.Web.DynamicData" />
     <Reference Include="System.Web.Entity" />
@@ -382,6 +388,8 @@
     <Content Include="ProductComponentPage.aspx" />
     <Content Include="ProductLaptopPage.aspx" />
     <Content Include="ProductMobilePage.aspx" />
+    <Content Include="ProductStatistic.aspx" />
+    <Content Include="ProductStatusPage.aspx" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
@@ -413,6 +421,7 @@
     <Compile Include="AdminPageMaster.Master.designer.cs">
       <DependentUpon>AdminPageMaster.Master</DependentUpon>
     </Compile>
+    <Compile Include="AnalysticDataUtil.cs" />
     <Compile Include="CategoryPage.aspx.cs">
       <DependentUpon>CategoryPage.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -466,7 +475,9 @@
     </Compile>
     <Compile Include="model\Category.cs" />
     <Compile Include="model\Customer.cs" />
+    <Compile Include="model\OrderDate.cs" />
     <Compile Include="model\Product.cs" />
+    <Compile Include="model\TotalSold.cs" />
     <Compile Include="OtherProductPage.aspx.cs">
       <DependentUpon>OtherProductPage.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -495,6 +506,20 @@
     </Compile>
     <Compile Include="ProductMobilePage.aspx.designer.cs">
       <DependentUpon>ProductMobilePage.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ProductStatistic.aspx.cs">
+      <DependentUpon>ProductStatistic.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ProductStatistic.aspx.designer.cs">
+      <DependentUpon>ProductStatistic.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ProductStatusPage.aspx.cs">
+      <DependentUpon>ProductStatusPage.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ProductStatusPage.aspx.designer.cs">
+      <DependentUpon>ProductStatusPage.aspx</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
@@ -605,6 +630,8 @@
     <Content Include="assets\vendor\tinymce\package.json" />
     <Content Include="assets\vendor\tinymce\README.md" />
     <Content Include="AdminPageMaster.Master" />
+    <Content Include="fonts\arialuni.ttf" />
+    <Content Include="fonts\arial.ttf" />
     <None Include="packages.config" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
