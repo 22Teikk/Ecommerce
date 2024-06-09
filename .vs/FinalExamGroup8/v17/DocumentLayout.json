@@ -3,51 +3,7 @@
   "WorkspaceRootPath": "C:\\Users\\Teikk\\OneDrive\\Desktop\\Ecomerce\\KTHP\\Ecommerce\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9166A118-F124-4856-8A3D-09895FF4EACA}|FinalExamGroup8\\FinalExamGroup8.csproj|c:\\users\\teikk\\onedrive\\desktop\\ecomerce\\kthp\\ecommerce\\finalexamgroup8\\loginpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9166A118-F124-4856-8A3D-09895FF4EACA}|FinalExamGroup8\\FinalExamGroup8.csproj|solutionrelative:finalexamgroup8\\loginpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9166A118-F124-4856-8A3D-09895FF4EACA}|FinalExamGroup8\\FinalExamGroup8.csproj|C:\\Users\\Teikk\\OneDrive\\Desktop\\Ecomerce\\KTHP\\Ecommerce\\finalexamgroup8\\statemanagementpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9166A118-F124-4856-8A3D-09895FF4EACA}|FinalExamGroup8\\FinalExamGroup8.csproj|solutionrelative:finalexamgroup8\\statemanagementpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9166A118-F124-4856-8A3D-09895FF4EACA}|FinalExamGroup8\\FinalExamGroup8.csproj|c:\\users\\teikk\\onedrive\\desktop\\ecomerce\\kthp\\ecommerce\\finalexamgroup8\\productstatuspage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9166A118-F124-4856-8A3D-09895FF4EACA}|FinalExamGroup8\\FinalExamGroup8.csproj|solutionrelative:finalexamgroup8\\productstatuspage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9166A118-F124-4856-8A3D-09895FF4EACA}|FinalExamGroup8\\FinalExamGroup8.csproj|c:\\users\\teikk\\onedrive\\desktop\\ecomerce\\kthp\\ecommerce\\finalexamgroup8\\productstatistic.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9166A118-F124-4856-8A3D-09895FF4EACA}|FinalExamGroup8\\FinalExamGroup8.csproj|solutionrelative:finalexamgroup8\\productstatistic.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9166A118-F124-4856-8A3D-09895FF4EACA}|FinalExamGroup8\\FinalExamGroup8.csproj|c:\\users\\teikk\\onedrive\\desktop\\ecomerce\\kthp\\ecommerce\\finalexamgroup8\\productmobilepage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9166A118-F124-4856-8A3D-09895FF4EACA}|FinalExamGroup8\\FinalExamGroup8.csproj|solutionrelative:finalexamgroup8\\productmobilepage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9166A118-F124-4856-8A3D-09895FF4EACA}|FinalExamGroup8\\FinalExamGroup8.csproj|c:\\users\\teikk\\onedrive\\desktop\\ecomerce\\kthp\\ecommerce\\finalexamgroup8\\productlaptoppage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9166A118-F124-4856-8A3D-09895FF4EACA}|FinalExamGroup8\\FinalExamGroup8.csproj|solutionrelative:finalexamgroup8\\productlaptoppage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9166A118-F124-4856-8A3D-09895FF4EACA}|FinalExamGroup8\\FinalExamGroup8.csproj|c:\\users\\teikk\\onedrive\\desktop\\ecomerce\\kthp\\ecommerce\\finalexamgroup8\\productcomponentpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9166A118-F124-4856-8A3D-09895FF4EACA}|FinalExamGroup8\\FinalExamGroup8.csproj|solutionrelative:finalexamgroup8\\productcomponentpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9166A118-F124-4856-8A3D-09895FF4EACA}|FinalExamGroup8\\FinalExamGroup8.csproj|C:\\Users\\Teikk\\OneDrive\\Desktop\\Ecomerce\\KTHP\\Ecommerce\\finalexamgroup8\\otherproductpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9166A118-F124-4856-8A3D-09895FF4EACA}|FinalExamGroup8\\FinalExamGroup8.csproj|solutionrelative:finalexamgroup8\\otherproductpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9166A118-F124-4856-8A3D-09895FF4EACA}|FinalExamGroup8\\FinalExamGroup8.csproj|c:\\users\\teikk\\onedrive\\desktop\\ecomerce\\kthp\\ecommerce\\finalexamgroup8\\detailproductpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9166A118-F124-4856-8A3D-09895FF4EACA}|FinalExamGroup8\\FinalExamGroup8.csproj|solutionrelative:finalexamgroup8\\detailproductpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9166A118-F124-4856-8A3D-09895FF4EACA}|FinalExamGroup8\\FinalExamGroup8.csproj|c:\\users\\teikk\\onedrive\\desktop\\ecomerce\\kthp\\ecommerce\\finalexamgroup8\\detailcustomerpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9166A118-F124-4856-8A3D-09895FF4EACA}|FinalExamGroup8\\FinalExamGroup8.csproj|solutionrelative:finalexamgroup8\\detailcustomerpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9166A118-F124-4856-8A3D-09895FF4EACA}|FinalExamGroup8\\FinalExamGroup8.csproj|c:\\users\\teikk\\onedrive\\desktop\\ecomerce\\kthp\\ecommerce\\finalexamgroup8\\detailcategorypage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9166A118-F124-4856-8A3D-09895FF4EACA}|FinalExamGroup8\\FinalExamGroup8.csproj|solutionrelative:finalexamgroup8\\detailcategorypage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9166A118-F124-4856-8A3D-09895FF4EACA}|FinalExamGroup8\\FinalExamGroup8.csproj|c:\\users\\teikk\\onedrive\\desktop\\ecomerce\\kthp\\ecommerce\\finalexamgroup8\\dashboardpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{9166A118-F124-4856-8A3D-09895FF4EACA}|FinalExamGroup8\\FinalExamGroup8.csproj|C:\\Users\\Teikk\\OneDrive\\Desktop\\Ecomerce\\KTHP\\Ecommerce\\finalexamgroup8\\dashboardpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{9166A118-F124-4856-8A3D-09895FF4EACA}|FinalExamGroup8\\FinalExamGroup8.csproj|solutionrelative:finalexamgroup8\\dashboardpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
@@ -55,52 +11,8 @@
       "RelativeMoniker": "D:0:0:{9166A118-F124-4856-8A3D-09895FF4EACA}|FinalExamGroup8\\FinalExamGroup8.csproj|solutionrelative:finalexamgroup8\\dashboardpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9166A118-F124-4856-8A3D-09895FF4EACA}|FinalExamGroup8\\FinalExamGroup8.csproj|c:\\users\\teikk\\onedrive\\desktop\\ecomerce\\kthp\\ecommerce\\finalexamgroup8\\customerpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9166A118-F124-4856-8A3D-09895FF4EACA}|FinalExamGroup8\\FinalExamGroup8.csproj|solutionrelative:finalexamgroup8\\customerpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9166A118-F124-4856-8A3D-09895FF4EACA}|FinalExamGroup8\\FinalExamGroup8.csproj|c:\\users\\teikk\\onedrive\\desktop\\ecomerce\\kthp\\ecommerce\\finalexamgroup8\\categorypage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9166A118-F124-4856-8A3D-09895FF4EACA}|FinalExamGroup8\\FinalExamGroup8.csproj|solutionrelative:finalexamgroup8\\categorypage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9166A118-F124-4856-8A3D-09895FF4EACA}|FinalExamGroup8\\FinalExamGroup8.csproj|c:\\users\\teikk\\onedrive\\desktop\\ecomerce\\kthp\\ecommerce\\finalexamgroup8\\addproductpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9166A118-F124-4856-8A3D-09895FF4EACA}|FinalExamGroup8\\FinalExamGroup8.csproj|solutionrelative:finalexamgroup8\\addproductpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9166A118-F124-4856-8A3D-09895FF4EACA}|FinalExamGroup8\\FinalExamGroup8.csproj|c:\\users\\teikk\\onedrive\\desktop\\ecomerce\\kthp\\ecommerce\\finalexamgroup8\\addcustomerpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9166A118-F124-4856-8A3D-09895FF4EACA}|FinalExamGroup8\\FinalExamGroup8.csproj|solutionrelative:finalexamgroup8\\addcustomerpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9166A118-F124-4856-8A3D-09895FF4EACA}|FinalExamGroup8\\FinalExamGroup8.csproj|c:\\users\\teikk\\onedrive\\desktop\\ecomerce\\kthp\\ecommerce\\finalexamgroup8\\addcategorypage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9166A118-F124-4856-8A3D-09895FF4EACA}|FinalExamGroup8\\FinalExamGroup8.csproj|solutionrelative:finalexamgroup8\\addcategorypage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9166A118-F124-4856-8A3D-09895FF4EACA}|FinalExamGroup8\\FinalExamGroup8.csproj|c:\\users\\teikk\\onedrive\\desktop\\ecomerce\\kthp\\ecommerce\\finalexamgroup8\\addcategorypage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{9166A118-F124-4856-8A3D-09895FF4EACA}|FinalExamGroup8\\FinalExamGroup8.csproj|solutionrelative:finalexamgroup8\\addcategorypage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9166A118-F124-4856-8A3D-09895FF4EACA}|FinalExamGroup8\\FinalExamGroup8.csproj|c:\\users\\teikk\\onedrive\\desktop\\ecomerce\\kthp\\ecommerce\\finalexamgroup8\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{9166A118-F124-4856-8A3D-09895FF4EACA}|FinalExamGroup8\\FinalExamGroup8.csproj|solutionrelative:finalexamgroup8\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9166A118-F124-4856-8A3D-09895FF4EACA}|FinalExamGroup8\\FinalExamGroup8.csproj|c:\\users\\teikk\\onedrive\\desktop\\ecomerce\\kthp\\ecommerce\\finalexamgroup8\\loginpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{9166A118-F124-4856-8A3D-09895FF4EACA}|FinalExamGroup8\\FinalExamGroup8.csproj|solutionrelative:finalexamgroup8\\loginpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9166A118-F124-4856-8A3D-09895FF4EACA}|FinalExamGroup8\\FinalExamGroup8.csproj|c:\\users\\teikk\\onedrive\\desktop\\ecomerce\\kthp\\ecommerce\\finalexamgroup8\\statemanagementpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{9166A118-F124-4856-8A3D-09895FF4EACA}|FinalExamGroup8\\FinalExamGroup8.csproj|solutionrelative:finalexamgroup8\\statemanagementpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9166A118-F124-4856-8A3D-09895FF4EACA}|FinalExamGroup8\\FinalExamGroup8.csproj|C:\\Users\\Teikk\\OneDrive\\Desktop\\Ecomerce\\KTHP\\Ecommerce\\finalexamgroup8\\otherproductpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{9166A118-F124-4856-8A3D-09895FF4EACA}|FinalExamGroup8\\FinalExamGroup8.csproj|solutionrelative:finalexamgroup8\\otherproductpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9166A118-F124-4856-8A3D-09895FF4EACA}|FinalExamGroup8\\FinalExamGroup8.csproj|C:\\Users\\Teikk\\OneDrive\\Desktop\\Ecomerce\\KTHP\\Ecommerce\\finalexamgroup8\\analysticdatautil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9166A118-F124-4856-8A3D-09895FF4EACA}|FinalExamGroup8\\FinalExamGroup8.csproj|solutionrelative:finalexamgroup8\\analysticdatautil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9166A118-F124-4856-8A3D-09895FF4EACA}|FinalExamGroup8\\FinalExamGroup8.csproj|C:\\Users\\Teikk\\OneDrive\\Desktop\\Ecomerce\\KTHP\\Ecommerce\\finalexamgroup8\\model\\shipmentorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9166A118-F124-4856-8A3D-09895FF4EACA}|FinalExamGroup8\\FinalExamGroup8.csproj|solutionrelative:finalexamgroup8\\model\\shipmentorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9166A118-F124-4856-8A3D-09895FF4EACA}|FinalExamGroup8\\FinalExamGroup8.csproj|c:\\users\\teikk\\onedrive\\desktop\\ecomerce\\kthp\\ecommerce\\finalexamgroup8\\adminpagemaster.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{9166A118-F124-4856-8A3D-09895FF4EACA}|FinalExamGroup8\\FinalExamGroup8.csproj|solutionrelative:finalexamgroup8\\adminpagemaster.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
     }
   ],
   "DocumentGroupContainers": [
@@ -110,141 +22,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "ProductStatusPage.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\Teikk\\OneDrive\\Desktop\\Ecomerce\\KTHP\\Ecommerce\\FinalExamGroup8\\ProductStatusPage.aspx.cs",
-              "RelativeDocumentMoniker": "FinalExamGroup8\\ProductStatusPage.aspx.cs",
-              "ToolTip": "C:\\Users\\Teikk\\OneDrive\\Desktop\\Ecomerce\\KTHP\\Ecommerce\\FinalExamGroup8\\ProductStatusPage.aspx.cs",
-              "RelativeToolTip": "FinalExamGroup8\\ProductStatusPage.aspx.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-06T16:01:56.915Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ProductStatistic.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\Teikk\\OneDrive\\Desktop\\Ecomerce\\KTHP\\Ecommerce\\FinalExamGroup8\\ProductStatistic.aspx.cs",
-              "RelativeDocumentMoniker": "FinalExamGroup8\\ProductStatistic.aspx.cs",
-              "ToolTip": "C:\\Users\\Teikk\\OneDrive\\Desktop\\Ecomerce\\KTHP\\Ecommerce\\FinalExamGroup8\\ProductStatistic.aspx.cs",
-              "RelativeToolTip": "FinalExamGroup8\\ProductStatistic.aspx.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-06T16:01:51.331Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ProductMobilePage.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\Teikk\\OneDrive\\Desktop\\Ecomerce\\KTHP\\Ecommerce\\FinalExamGroup8\\ProductMobilePage.aspx.cs",
-              "RelativeDocumentMoniker": "FinalExamGroup8\\ProductMobilePage.aspx.cs",
-              "ToolTip": "C:\\Users\\Teikk\\OneDrive\\Desktop\\Ecomerce\\KTHP\\Ecommerce\\FinalExamGroup8\\ProductMobilePage.aspx.cs",
-              "RelativeToolTip": "FinalExamGroup8\\ProductMobilePage.aspx.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-06T16:01:45.577Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ProductLaptopPage.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\Teikk\\OneDrive\\Desktop\\Ecomerce\\KTHP\\Ecommerce\\FinalExamGroup8\\ProductLaptopPage.aspx.cs",
-              "RelativeDocumentMoniker": "FinalExamGroup8\\ProductLaptopPage.aspx.cs",
-              "ToolTip": "C:\\Users\\Teikk\\OneDrive\\Desktop\\Ecomerce\\KTHP\\Ecommerce\\FinalExamGroup8\\ProductLaptopPage.aspx.cs",
-              "RelativeToolTip": "FinalExamGroup8\\ProductLaptopPage.aspx.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-06T16:01:37.746Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ProductComponentPage.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\Teikk\\OneDrive\\Desktop\\Ecomerce\\KTHP\\Ecommerce\\FinalExamGroup8\\ProductComponentPage.aspx.cs",
-              "RelativeDocumentMoniker": "FinalExamGroup8\\ProductComponentPage.aspx.cs",
-              "ToolTip": "C:\\Users\\Teikk\\OneDrive\\Desktop\\Ecomerce\\KTHP\\Ecommerce\\FinalExamGroup8\\ProductComponentPage.aspx.cs",
-              "RelativeToolTip": "FinalExamGroup8\\ProductComponentPage.aspx.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-06T16:01:30.292Z",
+              "Title": "AdminPageMaster.Master",
+              "DocumentMoniker": "C:\\Users\\Teikk\\OneDrive\\Desktop\\Ecomerce\\KTHP\\Ecommerce\\FinalExamGroup8\\AdminPageMaster.Master",
+              "RelativeDocumentMoniker": "FinalExamGroup8\\AdminPageMaster.Master",
+              "ToolTip": "C:\\Users\\Teikk\\OneDrive\\Desktop\\Ecomerce\\KTHP\\Ecommerce\\FinalExamGroup8\\AdminPageMaster.Master",
+              "RelativeToolTip": "FinalExamGroup8\\AdminPageMaster.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-09T03:58:57.17Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "StateManagementPage.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\Teikk\\OneDrive\\Desktop\\Ecomerce\\KTHP\\Ecommerce\\FinalExamGroup8\\StateManagementPage.aspx.cs",
-              "RelativeDocumentMoniker": "FinalExamGroup8\\StateManagementPage.aspx.cs",
-              "ToolTip": "C:\\Users\\Teikk\\OneDrive\\Desktop\\Ecomerce\\KTHP\\Ecommerce\\FinalExamGroup8\\StateManagementPage.aspx.cs",
-              "RelativeToolTip": "FinalExamGroup8\\StateManagementPage.aspx.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAANAAAA",
+              "Title": "DashboardPage.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Teikk\\OneDrive\\Desktop\\Ecomerce\\KTHP\\Ecommerce\\FinalExamGroup8\\DashboardPage.aspx.cs",
+              "RelativeDocumentMoniker": "FinalExamGroup8\\DashboardPage.aspx.cs",
+              "ToolTip": "C:\\Users\\Teikk\\OneDrive\\Desktop\\Ecomerce\\KTHP\\Ecommerce\\FinalExamGroup8\\DashboardPage.aspx.cs",
+              "RelativeToolTip": "FinalExamGroup8\\DashboardPage.aspx.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAiwCcAAABbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-06T05:37:10.577Z",
+              "WhenOpened": "2024-06-09T02:06:59.229Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "LoginPage.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\Teikk\\OneDrive\\Desktop\\Ecomerce\\KTHP\\Ecommerce\\FinalExamGroup8\\LoginPage.aspx.cs",
-              "RelativeDocumentMoniker": "FinalExamGroup8\\LoginPage.aspx.cs",
-              "ToolTip": "C:\\Users\\Teikk\\OneDrive\\Desktop\\Ecomerce\\KTHP\\Ecommerce\\FinalExamGroup8\\LoginPage.aspx.cs",
-              "RelativeToolTip": "FinalExamGroup8\\LoginPage.aspx.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAqwBgAAAAxAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-06T15:43:59.343Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "DetailProductPage.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\Teikk\\OneDrive\\Desktop\\Ecomerce\\KTHP\\Ecommerce\\FinalExamGroup8\\DetailProductPage.aspx.cs",
-              "RelativeDocumentMoniker": "FinalExamGroup8\\DetailProductPage.aspx.cs",
-              "ToolTip": "C:\\Users\\Teikk\\OneDrive\\Desktop\\Ecomerce\\KTHP\\Ecommerce\\FinalExamGroup8\\DetailProductPage.aspx.cs",
-              "RelativeToolTip": "FinalExamGroup8\\DetailProductPage.aspx.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-06T16:01:05.719Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "DetailCustomerPage.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\Teikk\\OneDrive\\Desktop\\Ecomerce\\KTHP\\Ecommerce\\FinalExamGroup8\\DetailCustomerPage.aspx.cs",
-              "RelativeDocumentMoniker": "FinalExamGroup8\\DetailCustomerPage.aspx.cs",
-              "ToolTip": "C:\\Users\\Teikk\\OneDrive\\Desktop\\Ecomerce\\KTHP\\Ecommerce\\FinalExamGroup8\\DetailCustomerPage.aspx.cs",
-              "RelativeToolTip": "FinalExamGroup8\\DetailCustomerPage.aspx.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-06T16:01:01.143Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "DetailCategoryPage.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\Teikk\\OneDrive\\Desktop\\Ecomerce\\KTHP\\Ecommerce\\FinalExamGroup8\\DetailCategoryPage.aspx.cs",
-              "RelativeDocumentMoniker": "FinalExamGroup8\\DetailCategoryPage.aspx.cs",
-              "ToolTip": "C:\\Users\\Teikk\\OneDrive\\Desktop\\Ecomerce\\KTHP\\Ecommerce\\FinalExamGroup8\\DetailCategoryPage.aspx.cs",
-              "RelativeToolTip": "FinalExamGroup8\\DetailCategoryPage.aspx.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-06T16:00:53.055Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
               "Title": "DashboardPage.aspx",
               "DocumentMoniker": "C:\\Users\\Teikk\\OneDrive\\Desktop\\Ecomerce\\KTHP\\Ecommerce\\FinalExamGroup8\\DashboardPage.aspx",
               "RelativeDocumentMoniker": "FinalExamGroup8\\DashboardPage.aspx",
@@ -254,185 +62,6 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
               "WhenOpened": "2024-06-06T16:00:40.022Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "DashboardPage.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\Teikk\\OneDrive\\Desktop\\Ecomerce\\KTHP\\Ecommerce\\FinalExamGroup8\\DashboardPage.aspx.cs",
-              "RelativeDocumentMoniker": "FinalExamGroup8\\DashboardPage.aspx.cs",
-              "ToolTip": "C:\\Users\\Teikk\\OneDrive\\Desktop\\Ecomerce\\KTHP\\Ecommerce\\FinalExamGroup8\\DashboardPage.aspx.cs",
-              "RelativeToolTip": "FinalExamGroup8\\DashboardPage.aspx.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-06T16:00:34.832Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "CustomerPage.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\Teikk\\OneDrive\\Desktop\\Ecomerce\\KTHP\\Ecommerce\\FinalExamGroup8\\CustomerPage.aspx.cs",
-              "RelativeDocumentMoniker": "FinalExamGroup8\\CustomerPage.aspx.cs",
-              "ToolTip": "C:\\Users\\Teikk\\OneDrive\\Desktop\\Ecomerce\\KTHP\\Ecommerce\\FinalExamGroup8\\CustomerPage.aspx.cs",
-              "RelativeToolTip": "FinalExamGroup8\\CustomerPage.aspx.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-06T16:00:26.146Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "OtherProductPage.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\Teikk\\OneDrive\\Desktop\\Ecomerce\\KTHP\\Ecommerce\\FinalExamGroup8\\OtherProductPage.aspx.cs",
-              "RelativeDocumentMoniker": "FinalExamGroup8\\OtherProductPage.aspx.cs",
-              "ToolTip": "C:\\Users\\Teikk\\OneDrive\\Desktop\\Ecomerce\\KTHP\\Ecommerce\\FinalExamGroup8\\OtherProductPage.aspx.cs",
-              "RelativeToolTip": "FinalExamGroup8\\OtherProductPage.aspx.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-06T14:16:11.265Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "CategoryPage.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\Teikk\\OneDrive\\Desktop\\Ecomerce\\KTHP\\Ecommerce\\FinalExamGroup8\\CategoryPage.aspx.cs",
-              "RelativeDocumentMoniker": "FinalExamGroup8\\CategoryPage.aspx.cs",
-              "ToolTip": "C:\\Users\\Teikk\\OneDrive\\Desktop\\Ecomerce\\KTHP\\Ecommerce\\FinalExamGroup8\\CategoryPage.aspx.cs",
-              "RelativeToolTip": "FinalExamGroup8\\CategoryPage.aspx.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-06T16:00:19.238Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "AddProductPage.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\Teikk\\OneDrive\\Desktop\\Ecomerce\\KTHP\\Ecommerce\\FinalExamGroup8\\AddProductPage.aspx.cs",
-              "RelativeDocumentMoniker": "FinalExamGroup8\\AddProductPage.aspx.cs",
-              "ToolTip": "C:\\Users\\Teikk\\OneDrive\\Desktop\\Ecomerce\\KTHP\\Ecommerce\\FinalExamGroup8\\AddProductPage.aspx.cs",
-              "RelativeToolTip": "FinalExamGroup8\\AddProductPage.aspx.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-06T16:00:10.852Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "AddCustomerPage.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\Teikk\\OneDrive\\Desktop\\Ecomerce\\KTHP\\Ecommerce\\FinalExamGroup8\\AddCustomerPage.aspx.cs",
-              "RelativeDocumentMoniker": "FinalExamGroup8\\AddCustomerPage.aspx.cs",
-              "ToolTip": "C:\\Users\\Teikk\\OneDrive\\Desktop\\Ecomerce\\KTHP\\Ecommerce\\FinalExamGroup8\\AddCustomerPage.aspx.cs",
-              "RelativeToolTip": "FinalExamGroup8\\AddCustomerPage.aspx.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-06T16:00:01.922Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "AddCategoryPage.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\Teikk\\OneDrive\\Desktop\\Ecomerce\\KTHP\\Ecommerce\\FinalExamGroup8\\AddCategoryPage.aspx.cs",
-              "RelativeDocumentMoniker": "FinalExamGroup8\\AddCategoryPage.aspx.cs",
-              "ToolTip": "C:\\Users\\Teikk\\OneDrive\\Desktop\\Ecomerce\\KTHP\\Ecommerce\\FinalExamGroup8\\AddCategoryPage.aspx.cs",
-              "RelativeToolTip": "FinalExamGroup8\\AddCategoryPage.aspx.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-06T15:59:53.951Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "AddCategoryPage.aspx",
-              "DocumentMoniker": "C:\\Users\\Teikk\\OneDrive\\Desktop\\Ecomerce\\KTHP\\Ecommerce\\FinalExamGroup8\\AddCategoryPage.aspx",
-              "RelativeDocumentMoniker": "FinalExamGroup8\\AddCategoryPage.aspx",
-              "ToolTip": "C:\\Users\\Teikk\\OneDrive\\Desktop\\Ecomerce\\KTHP\\Ecommerce\\FinalExamGroup8\\AddCategoryPage.aspx",
-              "RelativeToolTip": "FinalExamGroup8\\AddCategoryPage.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-06-06T15:59:50.554Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "LoginPage.aspx",
-              "DocumentMoniker": "C:\\Users\\Teikk\\OneDrive\\Desktop\\Ecomerce\\KTHP\\Ecommerce\\FinalExamGroup8\\LoginPage.aspx",
-              "RelativeDocumentMoniker": "FinalExamGroup8\\LoginPage.aspx",
-              "ToolTip": "C:\\Users\\Teikk\\OneDrive\\Desktop\\Ecomerce\\KTHP\\Ecommerce\\FinalExamGroup8\\LoginPage.aspx",
-              "RelativeToolTip": "FinalExamGroup8\\LoginPage.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-06-06T15:43:55.598Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "Web.config",
-              "DocumentMoniker": "C:\\Users\\Teikk\\OneDrive\\Desktop\\Ecomerce\\KTHP\\Ecommerce\\FinalExamGroup8\\Web.config",
-              "RelativeDocumentMoniker": "FinalExamGroup8\\Web.config",
-              "ToolTip": "C:\\Users\\Teikk\\OneDrive\\Desktop\\Ecomerce\\KTHP\\Ecommerce\\FinalExamGroup8\\Web.config",
-              "RelativeToolTip": "FinalExamGroup8\\Web.config",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAOAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2024-06-06T15:42:03.304Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "OtherProductPage.aspx",
-              "DocumentMoniker": "C:\\Users\\Teikk\\OneDrive\\Desktop\\Ecomerce\\KTHP\\Ecommerce\\FinalExamGroup8\\OtherProductPage.aspx",
-              "RelativeDocumentMoniker": "FinalExamGroup8\\OtherProductPage.aspx",
-              "ToolTip": "C:\\Users\\Teikk\\OneDrive\\Desktop\\Ecomerce\\KTHP\\Ecommerce\\FinalExamGroup8\\OtherProductPage.aspx",
-              "RelativeToolTip": "FinalExamGroup8\\OtherProductPage.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-06-06T14:16:13.336Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "StateManagementPage.aspx",
-              "DocumentMoniker": "C:\\Users\\Teikk\\OneDrive\\Desktop\\Ecomerce\\KTHP\\Ecommerce\\FinalExamGroup8\\StateManagementPage.aspx",
-              "RelativeDocumentMoniker": "FinalExamGroup8\\StateManagementPage.aspx",
-              "ToolTip": "C:\\Users\\Teikk\\OneDrive\\Desktop\\Ecomerce\\KTHP\\Ecommerce\\FinalExamGroup8\\StateManagementPage.aspx",
-              "RelativeToolTip": "FinalExamGroup8\\StateManagementPage.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-06-06T05:35:22.85Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "AnalysticDataUtil.cs",
-              "DocumentMoniker": "C:\\Users\\Teikk\\OneDrive\\Desktop\\Ecomerce\\KTHP\\Ecommerce\\FinalExamGroup8\\AnalysticDataUtil.cs",
-              "RelativeDocumentMoniker": "FinalExamGroup8\\AnalysticDataUtil.cs",
-              "ToolTip": "C:\\Users\\Teikk\\OneDrive\\Desktop\\Ecomerce\\KTHP\\Ecommerce\\FinalExamGroup8\\AnalysticDataUtil.cs",
-              "RelativeToolTip": "FinalExamGroup8\\AnalysticDataUtil.cs",
-              "ViewState": "AQIAAKYAAAAAAAAAAAAiwMUAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-06T01:18:44.638Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "ShipmentOrder.cs",
-              "DocumentMoniker": "C:\\Users\\Teikk\\OneDrive\\Desktop\\Ecomerce\\KTHP\\Ecommerce\\FinalExamGroup8\\model\\ShipmentOrder.cs",
-              "RelativeDocumentMoniker": "FinalExamGroup8\\model\\ShipmentOrder.cs",
-              "ToolTip": "C:\\Users\\Teikk\\OneDrive\\Desktop\\Ecomerce\\KTHP\\Ecommerce\\FinalExamGroup8\\model\\ShipmentOrder.cs",
-              "RelativeToolTip": "FinalExamGroup8\\model\\ShipmentOrder.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAwwBQAAAAoAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-06T05:46:52.573Z"
             }
           ]
         }

@@ -28,6 +28,8 @@
     <link href="assets/vendor/quill/quill.bubble.css" rel="stylesheet">
     <link href="assets/vendor/remixicon/remixicon.css" rel="stylesheet">
     <link href="assets/vendor/simple-datatables/style.css" rel="stylesheet">
+                <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
 
     <!-- Template Main CSS File -->
     <link href="assets/css/style.css" rel="stylesheet">
@@ -283,7 +285,7 @@
                 </a>
                 <ul id="tables-nav" class="nav-content collapse " data-bs-parent="#sidebar-nav">
                     <li>
-                        <a href="tables-general.html">
+                        <a href="StateManagementPage.aspx">
                             <i class="bi bi-circle"></i><span>Trạng thái đơn hàng</span>
                         </a>
                     </li>
@@ -301,14 +303,14 @@
             </li>
             <!-- End Tables Nav -->
 
-            <li class="nav-heading">Pages</li>
+          <%--  <li class="nav-heading">Pages</li>
 
             <li class="nav-item">
                 <a class="nav-link collapsed" href="users-profile.html">
                     <i class="bi bi-person"></i>
                     <span>Profile</span>
                 </a>
-            </li>
+            </li>--%>
             <!-- End Profile Page Nav -->
 
         </ul>

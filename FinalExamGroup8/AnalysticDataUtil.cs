@@ -187,6 +187,46 @@ namespace FinalExamGroup8
             return shipmentOrders;
         }
 
+        public List<ShipmentOrder> GetTodayShipmentOrders()
+        {
+            List<ShipmentOrder> shipmentOrders = new List<ShipmentOrder>();
+            con.Open();
+            string query = @"
+SELECT s.shipment_date, s.address, c.first_name, c.last_name, 
+        o.total_price, o.order_date, o.status, p.payment_method, 
+        oi.quantity, pr.name, pr.image, o.order_id 
+FROM [order] o
+JOIN [customer] c ON o.customer_id = c.customer_id 
+JOIN shipment s on s.customer_id = c.customer_id
+JOIN [payment] p ON o.payment_id = p.payment_id 
+JOIN [order_item] oi ON o.order_id = oi.order_id 
+JOIN [product] pr ON oi.product_id = pr.product_id
+WHERE CAST(o.order_date AS DATE) = CAST(GETDATE() AS DATE)";
+
+            SqlCommand command = new SqlCommand(query, con);
+            SqlDataReader reader = command.ExecuteReader();
+            while (reader.Read())
+            {
+                ShipmentOrder shipmentOrder = new ShipmentOrder
+                {
+                    ShipmentDate = Convert.ToDateTime(reader["shipment_date"]),
+                    Address = reader["address"].ToString(),
+                    FirstName = reader["first_name"].ToString(),
+                    LastName = reader["last_name"].ToString(),
+                    TotalPrice = Convert.ToDecimal(reader["total_price"]),
+                    OrderDate = Convert.ToDateTime(reader["order_date"]),
+                    Status = reader["status"].ToString(),
+                    PaymentMethod = reader["payment_method"].ToString(),
+                    Quantity = Convert.ToInt32(reader["quantity"]),
+                    ProductName = reader["name"].ToString(),
+                    ProductImage = reader["image"].ToString(),
+                    OrderId = Convert.ToInt32(reader["order_id"])
+                };
+                shipmentOrders.Add(shipmentOrder);
+            }
+            con.Close();
+            return shipmentOrders;
+        }
         public void UpdateStatusOrder(int orderID, int status)
         {
             con.Open();
@@ -196,6 +236,91 @@ namespace FinalExamGroup8
             cmd.Parameters.AddWithValue("oid", orderID);
             cmd.ExecuteNonQuery();
             con.Close();
+        }
+
+        public List<ProductSalesInfo> GetProductSalesInfoOfTheDay()
+        {
+            List<ProductSalesInfo> productSalesInfoList = new List<ProductSalesInfo>();
+            string query = @"
+        SELECT 
+    p.image AS ProductImage,
+    p.name AS ProductName,
+    p.price AS Price,
+    SUM(oi.quantity) AS TotalQuantitySold,
+    SUM(oi.quantity * p.price) AS TotalRevenue,
+    c.category_name AS CategoryName
+FROM 
+    [order] o
+JOIN 
+    order_item oi ON o.order_id = oi.order_id
+JOIN 
+    product p ON oi.product_id = p.product_id
+JOIN
+    category c ON p.category_id = c.category_id
+WHERE 
+    CAST(o.order_date AS DATE) = CAST(GETDATE() AS DATE)
+GROUP BY 
+    p.image, p.name, p.price, c.category_name;
+";
+                SqlCommand command = new SqlCommand(query, con);
+                con.Open();
+                SqlDataReader reader = command.ExecuteReader();
+                while (reader.Read())
+                {
+                    ProductSalesInfo productSalesInfo = new ProductSalesInfo
+                    {
+                        ProductImage = reader["ProductImage"].ToString(),
+                        ProductName = reader["ProductName"].ToString(),
+                        Price = Convert.ToDecimal(reader["Price"]),
+                        TotalQuantitySold = Convert.ToInt32(reader["TotalQuantitySold"]),
+                        TotalRevenue = Convert.ToDecimal(reader["TotalRevenue"])
+                    };
+                    productSalesInfoList.Add(productSalesInfo);
+                }
+                con.Close();
+            return productSalesInfoList;
+        }
+
+        public List<ProductSalesInfo> ChartAllProductByCategory()
+        {
+            List<ProductSalesInfo> productSalesInfoList = new List<ProductSalesInfo>();
+            string query = @"
+        SELECT 
+    p.image AS ProductImage,
+    p.name AS ProductName,
+    p.price AS Price,
+    SUM(oi.quantity) AS TotalQuantitySold,
+    SUM(oi.quantity * p.price) AS TotalRevenue,
+    c.category_name AS CategoryName
+FROM 
+    [order] o
+JOIN 
+    order_item oi ON o.order_id = oi.order_id
+JOIN 
+    product p ON oi.product_id = p.product_id
+JOIN
+    category c ON p.category_id = c.category_id
+GROUP BY 
+    p.image, p.name, p.price, c.category_name;
+";
+            SqlCommand command = new SqlCommand(query, con);
+            con.Open();
+            SqlDataReader reader = command.ExecuteReader();
+            while (reader.Read())
+            {
+                ProductSalesInfo productSalesInfo = new ProductSalesInfo
+                {
+                    ProductImage = reader["ProductImage"].ToString(),
+                    ProductName = reader["ProductName"].ToString(),
+                    Price = Convert.ToDecimal(reader["Price"]),
+                    TotalQuantitySold = Convert.ToInt32(reader["TotalQuantitySold"]),
+                    TotalRevenue = Convert.ToDecimal(reader["TotalRevenue"]),
+                    CategoryName = reader["CategoryName"].ToString()
+                };
+                productSalesInfoList.Add(productSalesInfo);
+            }
+            con.Close();
+            return productSalesInfoList;
         }
     }
 }

@@ -16,16 +16,14 @@
 </div>
 
             <!-- Add DropDownList for category selection -->
-            <div runat="server" class="col-lg-6" style="margin-top: 50px;" id="emptyLayout">
 
-          <div class="card">
+          <div class="card" runat="server" id="emptyLayout">
             <div class="card-body">
               <h5 class="card-title">Thông báo</h5>
               <p>Danh mục sản phẩm này đang trống, vui lòng thêm dữ liệu hoặc xem sản phẩm khác!</p>
             </div>
           </div>
 
-        </div>
             <asp:GridView GridLines="None" CssClass="table table-borderless  datatable" ID="dtgProduct" runat="server" AutoGenerateColumns="false" OnRowDeleting="dtgProduct_RowDeleting">
                 <Columns>
                     <asp:ImageField DataImageUrlField="image" HeaderText="Ảnh sản phẩm">

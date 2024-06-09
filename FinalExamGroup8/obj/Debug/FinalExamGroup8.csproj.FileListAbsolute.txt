@@ -119,3 +119,5 @@ C:\Users\Teikk\OneDrive\Desktop\Ecomerce\KTHP\Ecommerce\FinalExamGroup8\obj\Debu
 C:\Users\Teikk\OneDrive\Desktop\Ecomerce\KTHP\Ecommerce\FinalExamGroup8\bin\BouncyCastle.Crypto.dll
 C:\Users\Teikk\OneDrive\Desktop\Ecomerce\KTHP\Ecommerce\FinalExamGroup8\bin\itextsharp.dll
 C:\Users\Teikk\OneDrive\Desktop\Ecomerce\KTHP\Ecommerce\FinalExamGroup8\bin\itextsharp.xml
+C:\Users\Teikk\OneDrive\Desktop\Ecomerce\KTHP\Ecommerce\FinalExamGroup8\bin\Newtonsoft.Json.dll
+C:\Users\Teikk\OneDrive\Desktop\Ecomerce\KTHP\Ecommerce\FinalExamGroup8\bin\Newtonsoft.Json.xml
